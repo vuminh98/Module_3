@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f05ad8cf-4080-4e12-94f7-056459814a20" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Dictionary/src/main/webapp/dictionary.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/USER/src/main/java/dao/IUserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/USER/src/main/java/dao/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/USER/src/main/java/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/USER/src/main/webapp/user/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/USER/src/main/webapp/user/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/USER/src/main/webapp/user/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JSP_JSTL/src/main/webapp/WEB-INF/dictionary.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JSP_JSTL/src/main/webapp/WEB-INF/index1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JSP_JSTL/src/main/webapp/converter.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListCustomer/src/main/webapp/WEB-INF/index1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListCustomer/src/main/webapp/taglibs-standard-impl-1.2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListCustomer/src/main/webapp/taglibs-standard-spec-1.2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListCustomer/src/main/webapp/thumbnail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/CRUD/src/main/java/com/example/crud/controller/ProductServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/CRUD/src/main/java/com/example/crud/model/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/CRUD/src/main/java/com/example/crud/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/CRUD/src/main/java/com/example/crud/service/ICoreCRUDService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/CRUD/src/main/java/com/example/crud/service/IProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/CRUD/src/main/java/com/example/crud/service/impl/ProductServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/CRUD/src/main/webapp/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/CRUD/src/main/webapp/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/CRUD/src/main/webapp/create-product.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/CRUD/src/main/webapp/detail-product..jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/CRUD/src/main/webapp/list-product.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/Product/src/main/java/controller/ProductServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/Product/src/main/java/model/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/Product/src/main/java/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/Product/src/main/java/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/Product/src/main/java/service/ProductServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/Product/src/main/webapp/WEB-INF/error-404.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/Product/src/main/webapp/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/Product/src/main/webapp/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/Product/src/main/webapp/product/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/Product/src/main/webapp/product/delete.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/Product/src/main/webapp/product/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/Product/src/main/webapp/product/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/Product/src/main/webapp/product/search.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/Product/src/main/webapp/product/view.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/demo/src/main/java/controller/CustomerServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/demo/src/main/java/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/demo/src/main/java/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/demo/src/main/java/service/CustomerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/demo/src/main/webapp/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/demo/src/main/webapp/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/demo/src/main/webapp/customer/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/demo/src/main/webapp/customer/delete.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/demo/src/main/webapp/customer/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/demo/src/main/webapp/customer/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/demo/src/main/webapp/customer/view.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/demo/src/main/webapp/error-404.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/demo1/src/main/java/controller/ProductServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/demo1/src/main/java/model/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/demo1/src/main/java/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/demo1/src/main/java/service/ICoreCRUDService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/demo1/src/main/java/service/IProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/demo1/src/main/java/service/impl/ProductServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/demo1/src/main/webapp/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/demo1/src/main/webapp/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/demo1/src/main/webapp/list-product.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC/demo1/src/main/webapp/product/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Command.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Insert.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../Insert.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Table.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b3.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b4.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b5.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b6.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b7.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b8.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../b9.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/Exercise/bai1/css.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/Exercise/bai1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/Exercise/bai2/bai2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/Exercise/bai2/index1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/Exercise/bai3/bai3'.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/Exercise/bai3/bai3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/Exercise/bai4/bai4.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/Exercise/bai4/bai4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/html.html" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/html.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2IFHSIsbMVtleoFQaD13C3MkqSX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Module3/JDBC/USER"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f05ad8cf-4080-4e12-94f7-056459814a20" name="Changes" comment="" />
+      <created>1669770409702</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669770409702</updated>
+      <workItem from="1669770411092" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

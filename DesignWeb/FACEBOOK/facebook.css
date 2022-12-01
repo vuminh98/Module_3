@@ -1,0 +1,94 @@
+body{
+  font-family: Arial, Tahoma;
+  font-size: 12px;
+}
+
+#main{
+  width: 1366px;
+  padding: 0;
+}
+
+#head{
+  height: 60px;
+  background-color: #555555;
+  border: 1px solid #888888;
+  margin-bottom: 5px;
+}
+
+#logo {
+  float: left;
+}
+
+input {
+  margin-top: 20px;
+  float: left;
+  height: 25px;
+  margin-left: 20px;
+  margin-bottom: 5px;
+  border-radius: 10px;
+  border: 0 solid;
+  outline: none;
+}
+
+#logohome ,#logoplay, #logoAlien,#logoMeteor,#logoMessenger,#logoAnonymous{
+  float: left;
+  margin-left: 120px;
+  margin-top: 10px;
+}
+
+#left {
+  background-color: #999999;
+  width: 300px;
+  min-height: 600px;
+  float: left;
+}
+
+#content {
+  width:600px;
+  min-height: 600px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  float:left;
+  background-color: #999999;
+}
+
+#right{
+  float: right;
+  width: 455px;
+  min-height:600px;
+  background-color: #999999;
+}
+
+#logologo {
+  margin-left:40px;
+  margin-top:10px;
+  text-align: center;
+  color: indianred;
+}
+
+#menu li {
+  list-style: none;
+  cursor: pointer;
+  width: 200px;
+  height: 80px;
+  line-height: 40px;
+  font-size: 30px;
+  border: 1px;
+  display: block;
+}
+
+#menu li a{
+  text-decoration: none;
+}
+
+#footer{
+  clear:both;
+  height: 40px;
+  text-align: center;
+  padding-top: 20px;
+  font-weight: bold;
+  background-color: #999999;
+}
+
+

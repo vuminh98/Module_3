@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f050eb5c-1e47-4e8e-89bb-6a8a1cd10c30" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Dictionary/src/main/webapp/dictionary.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSP_JSTL/src/main/webapp/WEB-INF/dictionary.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSP_JSTL/src/main/webapp/WEB-INF/index1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSP_JSTL/src/main/webapp/converter.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ListCustomer/src/main/webapp/WEB-INF/index1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ListCustomer/src/main/webapp/taglibs-standard-impl-1.2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ListCustomer/src/main/webapp/taglibs-standard-spec-1.2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ListCustomer/src/main/webapp/thumbnail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/controller/CustomerServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/service/CustomerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/webapp/customer/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/webapp/customer/delete.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/webapp/customer/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/webapp/customer/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/webapp/customer/view.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/webapp/error-404.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/webapp/lib/taglibs-standard-impl-1.2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/webapp/lib/taglibs-standard-spec-1.2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled/DesignWeb/EX1/EX1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled/DesignWeb/EX1/EX1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled/DesignWeb/EXAMPLE/ex.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled/DesignWeb/EXAMPLE/ex.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled/DesignWeb/EXAMPLE/ex1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled/DesignWeb/EXAMPLE/ex1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled/DesignWeb/FACEBOOK/Facebook.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled/DesignWeb/FACEBOOK/Facebook_f_logo_(2019).svg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled/DesignWeb/FACEBOOK/facebook.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled/DesignWeb/TH1/TH1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled/DesignWeb/TH1/TH1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled/DesignWeb/TH2/TH2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled/DesignWeb/TH2/TH2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled/DesignWeb/TH3/TH3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled/DesignWeb/TH3/TH3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Command.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Insert.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Table.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../b3.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../b4.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../b5.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../b6.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../b7.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../b8.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../b9.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../untitled/Exercise/bai1/css.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../untitled/CSS-Cascading Style StyleSheet/bai1/css.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../untitled/Exercise/bai1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../untitled/CSS-Cascading Style StyleSheet/bai1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../untitled/Exercise/bai2/bai2.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../untitled/CSS-Cascading Style StyleSheet/bai2/bai2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../untitled/Exercise/bai2/index1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../untitled/CSS-Cascading Style StyleSheet/bai2/index1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../untitled/Exercise/bai3/bai3'.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../untitled/CSS-Cascading Style StyleSheet/bai3/bai3'.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../untitled/Exercise/bai3/bai3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../untitled/CSS-Cascading Style StyleSheet/bai3/bai3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../untitled/Exercise/bai4/bai4.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../untitled/CSS-Cascading Style StyleSheet/bai4/bai4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../untitled/Exercise/bai4/bai4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../untitled/CSS-Cascading Style StyleSheet/bai4/bai4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../untitled/html.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../untitled/html.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../untitled/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../untitled/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2I9t70GDDOCaprvglLdKEThM4z9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/pc/Desktop/New folder (2)/Module3/Server/CustomerManager",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f050eb5c-1e47-4e8e-89bb-6a8a1cd10c30" name="Changes" comment="" />
+      <created>1669605455201</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669605455201</updated>
+      <workItem from="1669605456430" duration="109000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
